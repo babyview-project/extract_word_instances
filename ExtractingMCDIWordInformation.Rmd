@@ -1,0 +1,100 @@
+---
+title: "ExtractingMCDIWordInformation"
+output: html_document
+date: "2025-03-19"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+```{r load_wordbank}
+library(wordbankr)
+library(dplyr)
+library(stringr)
+
+# Pull item data from wordbank
+MCDI_items = get_item_data()
+
+# Filter for words in the American English Words and Sentences MCDI form 
+MCDI_items = MCDI_items %>% filter(language == 'English (American)' & 
+                                   form =='WS' & 
+                                   item_kind == 'word' &
+                                   !grepl('name',item_definition) # remove names
+                                   )
+
+# Processing
+# --------------
+# clean up extra characters
+# separate out information about word sense (e.g., chicken the food or chicken the animal)
+# and alternative forms (e.g., soda/pop)
+# and tag multiword phrases
+
+
+MCDI_items <- MCDI_items %>%
+  mutate(
+    # Remove '*' from all three columns
+    item_definition = str_replace_all(item_definition, "\\*", ""),
+    english_gloss = str_replace_all(english_gloss, "\\*", ""),
+    uni_lemma = str_replace_all(uni_lemma, "\\*", ""),
+    
+    # Remove '!' from columns
+    item_definition = str_replace_all(item_definition, "\\!", ""),
+    english_gloss = str_replace_all(english_gloss, "\\!", ""),
+    
+    # Extract content inside parentheses and remove parentheses (word sense)
+    sense = str_extract(item_definition, "\\(([^)]+)\\)"),
+    sense = str_replace_all(sense, "[()]", ""),
+    
+    # Remove parentheses and their content
+    item_definition = str_replace_all(item_definition, "\\s*\\([^)]*\\)", ""),
+    english_gloss = str_replace_all(english_gloss, "\\s*\\([^)]*\\)", ""),
+    uni_lemma = str_replace_all(uni_lemma, "\\s*\\([^)]*\\)", ""),
+    
+    # Extract everything after the first '/' as alternative forms
+    alternative_forms = str_extract(item_definition, "/.*"),
+    alternative_forms = str_replace(alternative_forms, "^/", ""),  # Remove leading '/'
+    
+    # Remove everything after the first '/' from item_definition, english_gloss, and uni_lemma
+    item_definition = str_replace(item_definition, "/.*", ""),
+    english_gloss = str_replace(english_gloss, "/.*", ""),
+    uni_lemma = str_replace(uni_lemma, "/.*", ""),
+    
+    # Tag multiword items (if there is a space in item_definition)
+    multiword = ifelse(str_detect(item_definition, " "), "yes", "no")
+  )
+
+
+
+
+```
+
+
+```{r extract_AoA}
+# load wordbank administration data
+english_ws_items <- data.table(get_item_data("English (American)", "WS"))
+english_ws_data <- data.table(get_instrument_data("English (American)", "WS"))
+english_ws_admins <- get_administration_data("English (American)", "WS")
+
+english_ws_items = english_ws_items %>% 
+                    dplyr::select(token = item_definition, category,item_id)
+english_ws_admins = english_ws_admins %>% 
+                    dplyr::select(age,data_id)
+
+# combine dataframes into one
+english_ws_data = data.table(merge(english_ws_data,english_ws_items, by = c('item_id')))
+english_ws_data = data.table(merge(english_ws_data,english_ws_admins, by = c('data_id')))
+english_ws_data =  english_ws_data[!is.na(category),]
+
+
+# compute age of acquisition by fitting a curve, and selecting age at which 
+# half of children produce the word
+AoA_by_item = fit_aoa(english_ws_data, measure = "produces", method = "glm",
+  proportion = 0.5) %>% dplyr::select(item_id, AoA = aoa)
+
+# merge with cleaned up item data and save
+MCDI_items_with_AoA = merge(MCDI_items, AoA_by_item, by = c('item_id'), all.x = TRUE, all.y = FALSE)
+write.csv(MCDI_items_with_AoA,'MCDI_items_with_AoA.csv')
+
+```
