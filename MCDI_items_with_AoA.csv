@@ -11,7 +11,7 @@
 "10","item_107","English (American)","WS","WS","word","food_drink","donut","donut","pastry","nouns",NA,NA,NA,"no",27
 "11","item_108","English (American)","WS","WS","word","food_drink","drink","drink","drink","nouns",NA,"beverage",NA,"no",23
 "12","item_109","English (American)","WS","WS","word","food_drink","egg","egg","egg","nouns",NA,NA,NA,"no",23
-"13","item_11","English (American)","WS","WS","word","sounds","woof woof","woof woof","woof woof","other",NA,NA,NA,"yes",NA
+"13","item_11","English (American)","WS","WS","word","sounds","woof woof","woof woof","woof woof","other",NA,NA,NA,"yes",15
 "14","item_110","English (American)","WS","WS","word","food_drink","fish","fish","fish","nouns",NA,"food",NA,"no",24
 "15","item_111","English (American)","WS","WS","word","food_drink","food","food","food","nouns",NA,NA,NA,"no",24
 "16","item_112","English (American)","WS","WS","word","food_drink","french fries","french fries","french fries","nouns",NA,NA,NA,"yes",24
@@ -57,12 +57,12 @@
 "56","item_149","English (American)","WS","WS","word","food_drink","strawberry","strawberry","strawberry","nouns",NA,NA,NA,"no",24
 "57","item_15","English (American)","WS","WS","word","animals","ant","ant","ant","nouns",NA,NA,NA,"no",26
 "58","item_150","English (American)","WS","WS","word","food_drink","toast","toast","toast","nouns",NA,NA,NA,"no",25
-"59","item_151","English (American)","WS","WS","word","food_drink","tuna","tuna","tuna","nouns",NA,NA,NA,"no",NA
-"60","item_152","English (American)","WS","WS","word","food_drink","vanilla","vanilla","vanilla","nouns",NA,NA,NA,"no",NA
+"59","item_151","English (American)","WS","WS","word","food_drink","tuna","tuna","tuna","nouns",NA,NA,NA,"no",31
+"60","item_152","English (American)","WS","WS","word","food_drink","vanilla","vanilla","vanilla","nouns",NA,NA,NA,"no",31
 "61","item_153","English (American)","WS","WS","word","food_drink","vitamins","vitamins","vitamin","nouns",NA,NA,NA,"no",28
 "62","item_154","English (American)","WS","WS","word","food_drink","water","water","water","nouns",NA,"beverage",NA,"no",20
 "63","item_155","English (American)","WS","WS","word","food_drink","yogurt","yogurt","yogurt","nouns",NA,NA,NA,"no",24
-"64","item_156","English (American)","WS","WS","word","clothing","beads","beads","beads","nouns",NA,NA,NA,"no",NA
+"64","item_156","English (American)","WS","WS","word","clothing","beads","beads","beads","nouns",NA,NA,NA,"no",31
 "65","item_157","English (American)","WS","WS","word","clothing","belt","belt","belt","nouns",NA,NA,NA,"no",27
 "66","item_158","English (American)","WS","WS","word","clothing","bib","bib","bib","nouns",NA,NA,NA,"no",25
 "67","item_159","English (American)","WS","WS","word","clothing","boots","boots","boots","nouns",NA,NA,NA,"no",23
@@ -80,17 +80,17 @@
 "79","item_17","English (American)","WS","WS","word","animals","bee","bee","bee","nouns",NA,NA,NA,"no",22
 "80","item_170","English (American)","WS","WS","word","clothing","pajamas","pajamas","pajamas","nouns",NA,NA,NA,"no",24
 "81","item_171","English (American)","WS","WS","word","clothing","pants","pants","pants","nouns",NA,NA,NA,"no",23
-"82","item_172","English (American)","WS","WS","word","clothing","scarf","scarf","scarf","nouns",NA,NA,NA,"no",NA
+"82","item_172","English (American)","WS","WS","word","clothing","scarf","scarf","scarf","nouns",NA,NA,NA,"no",31
 "83","item_173","English (American)","WS","WS","word","clothing","shirt","shirt","shirt","nouns",NA,NA,NA,"no",23
 "84","item_174","English (American)","WS","WS","word","clothing","shoe","shoe","shoe","nouns",NA,NA,NA,"no",17
 "85","item_175","English (American)","WS","WS","word","clothing","shorts","shorts","shorts","nouns",NA,NA,NA,"no",26
 "86","item_176","English (American)","WS","WS","word","clothing","slipper","slipper","slipper","nouns",NA,NA,NA,"no",27
 "87","item_177","English (American)","WS","WS","word","clothing","sneaker","sneaker","sneaker","nouns",NA,NA,NA,"no",30
-"88","item_178","English (American)","WS","WS","word","clothing","snowsuit","snowsuit","snowsuit","nouns",NA,NA,NA,"no",NA
+"88","item_178","English (American)","WS","WS","word","clothing","snowsuit","snowsuit","snowsuit","nouns",NA,NA,NA,"no",33
 "89","item_179","English (American)","WS","WS","word","clothing","sock","sock","sock","nouns",NA,NA,NA,"no",21
 "90","item_18","English (American)","WS","WS","word","animals","bird","bird","bird","nouns",NA,NA,NA,"no",18
 "91","item_180","English (American)","WS","WS","word","clothing","sweater","sweater","sweater","nouns",NA,NA,NA,"no",26
-"92","item_181","English (American)","WS","WS","word","clothing","tights","tights","tights","nouns",NA,NA,NA,"no",NA
+"92","item_181","English (American)","WS","WS","word","clothing","tights","tights","tights","nouns",NA,NA,NA,"no",32
 "93","item_182","English (American)","WS","WS","word","clothing","underpants","underpants","underpants","nouns",NA,NA,NA,"no",28
 "94","item_183","English (American)","WS","WS","word","clothing","zipper","zipper","zipper","nouns",NA,NA,NA,"no",26
 "95","item_184","English (American)","WS","WS","word","body_parts","ankle","ankle","ankle","nouns",NA,NA,NA,"no",30
@@ -123,7 +123,7 @@
 "122","item_208","English (American)","WS","WS","word","body_parts","tooth","tooth","tooth","nouns",NA,NA,NA,"no",23
 "123","item_209","English (American)","WS","WS","word","body_parts","tummy","tummy","tummy","nouns",NA,NA,NA,"no",22
 "124","item_21","English (American)","WS","WS","word","animals","butterfly","butterfly","butterfly","nouns",NA,NA,NA,"no",24
-"125","item_210","English (American)","WS","WS","word","body_parts","vagina","vagina","vagina","nouns",NA,NA,NA,"no",NA
+"125","item_210","English (American)","WS","WS","word","body_parts","vagina","vagina","vagina","nouns",NA,NA,NA,"no",31
 "126","item_211","English (American)","WS","WS","word","household","basket","basket","basket","nouns",NA,NA,NA,"no",26
 "127","item_212","English (American)","WS","WS","word","household","blanket","blanket","blanket","nouns",NA,NA,NA,"no",22
 "128","item_213","English (American)","WS","WS","word","household","bottle","bottle","bottle","nouns",NA,NA,NA,"no",20
@@ -174,17 +174,17 @@
 "173","item_254","English (American)","WS","WS","word","household","toothbrush","toothbrush","toothbrush","nouns",NA,NA,NA,"no",23
 "174","item_255","English (American)","WS","WS","word","household","towel","towel","towel","nouns",NA,NA,NA,"no",24
 "175","item_256","English (American)","WS","WS","word","household","trash","trash","trash","nouns",NA,NA,NA,"no",25
-"176","item_257","English (American)","WS","WS","word","household","tray","tray","tray","nouns",NA,NA,NA,"no",NA
+"176","item_257","English (American)","WS","WS","word","household","tray","tray","tray","nouns",NA,NA,NA,"no",32
 "177","item_258","English (American)","WS","WS","word","household","vacuum","vacuum","vacuum","nouns",NA,NA,NA,"no",25
-"178","item_259","English (American)","WS","WS","word","household","walker","walker","walker","nouns",NA,NA,NA,"no",NA
-"179","item_26","English (American)","WS","WS","word","animals","dog","dog","dog","nouns",NA,NA,NA,"no",NA
+"178","item_259","English (American)","WS","WS","word","household","walker","walker","walker","nouns",NA,NA,NA,"no",34
+"179","item_26","English (American)","WS","WS","word","animals","dog","dog","dog","nouns",NA,NA,NA,"no",14
 "180","item_260","English (American)","WS","WS","word","household","watch","watch","watch","nouns",NA,"object",NA,"no",26
-"181","item_261","English (American)","WS","WS","word","furniture_rooms","basement","basement","basement","nouns",NA,NA,NA,"no",NA
+"181","item_261","English (American)","WS","WS","word","furniture_rooms","basement","basement","basement","nouns",NA,NA,NA,"no",32
 "182","item_262","English (American)","WS","WS","word","furniture_rooms","bathroom","bathroom","bathroom","nouns",NA,NA,NA,"no",24
 "183","item_263","English (American)","WS","WS","word","furniture_rooms","bathtub","bathtub","bathtub","nouns",NA,NA,NA,"no",23
 "184","item_264","English (American)","WS","WS","word","furniture_rooms","bed","bed","bed","nouns",NA,NA,NA,"no",21
 "185","item_265","English (American)","WS","WS","word","furniture_rooms","bedroom","bedroom","bedroom","nouns",NA,NA,NA,"no",26
-"186","item_266","English (American)","WS","WS","word","furniture_rooms","bench","bench","bench","nouns",NA,NA,NA,"no",NA
+"186","item_266","English (American)","WS","WS","word","furniture_rooms","bench","bench","bench","nouns",NA,NA,NA,"no",31
 "187","item_267","English (American)","WS","WS","word","furniture_rooms","chair","chair","chair","nouns",NA,NA,NA,"no",22
 "188","item_268","English (American)","WS","WS","word","furniture_rooms","closet","closet","closet","nouns",NA,NA,NA,"no",27
 "189","item_269","English (American)","WS","WS","word","furniture_rooms","couch","couch","couch","nouns",NA,NA,NA,"no",25
@@ -198,9 +198,9 @@
 "197","item_276","English (American)","WS","WS","word","furniture_rooms","kitchen","kitchen","kitchen","nouns",NA,NA,NA,"no",25
 "198","item_277","English (American)","WS","WS","word","furniture_rooms","living room","living room","living room","nouns",NA,NA,NA,"yes",28
 "199","item_278","English (American)","WS","WS","word","furniture_rooms","oven","oven","oven","nouns",NA,NA,NA,"no",27
-"200","item_279","English (American)","WS","WS","word","furniture_rooms","play pen","play pen","play pen","nouns",NA,NA,NA,"yes",NA
+"200","item_279","English (American)","WS","WS","word","furniture_rooms","play pen","play pen","play pen","nouns",NA,NA,NA,"yes",32
 "201","item_28","English (American)","WS","WS","word","animals","duck","duck","duck","nouns",NA,NA,NA,"no",18
-"202","item_280","English (American)","WS","WS","word","furniture_rooms","porch","porch","porch","nouns",NA,NA,NA,"no",NA
+"202","item_280","English (American)","WS","WS","word","furniture_rooms","porch","porch","porch","nouns",NA,NA,NA,"no",31
 "203","item_281","English (American)","WS","WS","word","furniture_rooms","potty","potty","potty","nouns",NA,NA,NA,"no",22
 "204","item_282","English (American)","WS","WS","word","furniture_rooms","rocking chair","rocking chair","rocking chair","nouns",NA,NA,NA,"yes",28
 "205","item_283","English (American)","WS","WS","word","furniture_rooms","refrigerator","refrigerator","refrigerator","nouns",NA,NA,NA,"no",26
@@ -251,12 +251,12 @@
 "250","item_323","English (American)","WS","WS","word","outside","water","water","water","nouns",NA,"not beverage",NA,"no",21
 "251","item_324","English (American)","WS","WS","word","outside","wind","wind","wind","nouns",NA,NA,NA,"no",27
 "252","item_325","English (American)","WS","WS","word","places","beach","beach","beach","other",NA,NA,NA,"no",27
-"253","item_326","English (American)","WS","WS","word","places","camping","camping","camping","other",NA,NA,NA,"no",NA
+"253","item_326","English (American)","WS","WS","word","places","camping","camping","camping","other",NA,NA,NA,"no",32
 "254","item_327","English (American)","WS","WS","word","places","church","church","church","other",NA,NA,NA,"no",29
-"255","item_328","English (American)","WS","WS","word","places","circus","circus","circus","other",NA,NA,NA,"no",NA
-"256","item_329","English (American)","WS","WS","word","places","country","country","country","other",NA,NA,NA,"no",NA
+"255","item_328","English (American)","WS","WS","word","places","circus","circus","circus","other",NA,NA,NA,"no",31
+"256","item_329","English (American)","WS","WS","word","places","country","country","country","other",NA,NA,NA,"no",35
 "257","item_33","English (American)","WS","WS","word","animals","goose","goose","goose","nouns",NA,NA,NA,"no",28
-"258","item_330","English (American)","WS","WS","word","places","downtown","downtown","downtown","other",NA,NA,NA,"no",NA
+"258","item_330","English (American)","WS","WS","word","places","downtown","downtown","downtown","other",NA,NA,NA,"no",33
 "259","item_331","English (American)","WS","WS","word","places","farm","farm","farm","other",NA,NA,NA,"no",28
 "260","item_332","English (American)","WS","WS","word","places","gas station","gas station","gas station","other",NA,NA,NA,"yes",29
 "261","item_333","English (American)","WS","WS","word","places","home","home","home","other",NA,NA,NA,"no",23
@@ -266,23 +266,23 @@
 "265","item_337","English (American)","WS","WS","word","places","park","park","park","other",NA,NA,NA,"no",24
 "266","item_338","English (American)","WS","WS","word","places","party","party","party","other",NA,NA,NA,"no",27
 "267","item_339","English (American)","WS","WS","word","places","picnic","picnic","picnic","other",NA,NA,NA,"no",29
-"268","item_34","English (American)","WS","WS","word","animals","hen","hen","hen","nouns",NA,NA,NA,"no",NA
+"268","item_34","English (American)","WS","WS","word","animals","hen","hen","hen","nouns",NA,NA,NA,"no",31
 "269","item_340","English (American)","WS","WS","word","places","playground","playground","playground","other",NA,NA,NA,"no",28
 "270","item_341","English (American)","WS","WS","word","places","school","school","school","other",NA,NA,NA,"no",25
 "271","item_342","English (American)","WS","WS","word","places","store","store","store","other",NA,NA,NA,"no",25
-"272","item_343","English (American)","WS","WS","word","places","woods","woods","forest","other",NA,NA,NA,"no",NA
+"272","item_343","English (American)","WS","WS","word","places","woods","woods","forest","other",NA,NA,NA,"no",32
 "273","item_344","English (American)","WS","WS","word","places","work","work","work","other",NA,"place",NA,"no",25
 "274","item_345","English (American)","WS","WS","word","places","yard","yard","yard","other",NA,NA,NA,"no",28
 "275","item_346","English (American)","WS","WS","word","places","zoo","zoo","zoo","other",NA,NA,NA,"no",27
 "276","item_347","English (American)","WS","WS","word","people","aunt","aunt","aunt","other",NA,NA,NA,"no",26
-"277","item_348","English (American)","WS","WS","word","people","baby","baby","baby","other",NA,NA,NA,"no",NA
-"278","item_349","English (American)","WS","WS","word","people","babysitter","babysitter","babysitter","other",NA,NA,NA,"no",NA
+"277","item_348","English (American)","WS","WS","word","people","baby","baby","baby","other",NA,NA,NA,"no",16
+"278","item_349","English (American)","WS","WS","word","people","babysitter","babysitter","babysitter","other",NA,NA,NA,"no",32
 "279","item_35","English (American)","WS","WS","word","animals","horse","horse","horse","nouns",NA,NA,NA,"no",22
 "280","item_351","English (American)","WS","WS","word","people","boy","boy","boy","other",NA,NA,NA,"no",24
 "281","item_352","English (American)","WS","WS","word","people","brother","brother","brother","other",NA,NA,NA,"no",27
-"282","item_353","English (American)","WS","WS","word","people","child","child","child","other",NA,NA,NA,"no",NA
+"282","item_353","English (American)","WS","WS","word","people","child","child","child","other",NA,NA,NA,"no",31
 "283","item_354","English (American)","WS","WS","word","people","clown","clown","clown","other",NA,NA,NA,"no",28
-"284","item_355","English (American)","WS","WS","word","people","cowboy","cowboy","cowboy","other",NA,NA,NA,"no",NA
+"284","item_355","English (American)","WS","WS","word","people","cowboy","cowboy","cowboy","other",NA,NA,NA,"no",31
 "285","item_356","English (American)","WS","WS","word","people","daddy","daddy","daddy","other",NA,NA,NA,"no",NA
 "286","item_357","English (American)","WS","WS","word","people","doctor","doctor","doctor","other",NA,NA,NA,"no",26
 "287","item_358","English (American)","WS","WS","word","people","fireman","fireman","firefighter","other",NA,NA,NA,"no",28
@@ -295,17 +295,17 @@
 "294","item_364","English (American)","WS","WS","word","people","mailman","mailman","mailman","other",NA,NA,NA,"no",29
 "295","item_365","English (American)","WS","WS","word","people","man","man","man","other",NA,NA,NA,"no",26
 "296","item_366","English (American)","WS","WS","word","people","mommy","mommy","mommy","other",NA,NA,NA,"no",NA
-"297","item_367","English (American)","WS","WS","word","people","nurse","nurse","nurse","other",NA,NA,NA,"no",NA
+"297","item_367","English (American)","WS","WS","word","people","nurse","nurse","nurse","other",NA,NA,NA,"no",32
 "298","item_369","English (American)","WS","WS","word","people","people","people","people","other",NA,NA,NA,"no",28
 "299","item_37","English (American)","WS","WS","word","animals","lamb","lamb","lamb","nouns",NA,NA,NA,"no",28
-"300","item_370","English (American)","WS","WS","word","people","person","person","person","other",NA,NA,NA,"no",NA
+"300","item_370","English (American)","WS","WS","word","people","person","person","person","other",NA,NA,NA,"no",32
 "301","item_372","English (American)","WS","WS","word","people","police","police","police","other",NA,NA,NA,"no",29
 "302","item_373","English (American)","WS","WS","word","people","sister","sister","sister","other",NA,NA,NA,"no",28
 "303","item_374","English (American)","WS","WS","word","people","teacher","teacher","teacher","other",NA,NA,NA,"no",28
 "304","item_375","English (American)","WS","WS","word","people","uncle","uncle","uncle","other",NA,NA,NA,"no",27
 "305","item_376","English (American)","WS","WS","word","games_routines","bath","bath","bath","other",NA,NA,NA,"no",19
 "306","item_377","English (American)","WS","WS","word","games_routines","breakfast","breakfast","breakfast","other",NA,NA,NA,"no",25
-"307","item_378","English (American)","WS","WS","word","games_routines","bye","bye","bye","other",NA,NA,NA,"no",NA
+"307","item_378","English (American)","WS","WS","word","games_routines","bye","bye","bye","other",NA,NA,NA,"no",12
 "308","item_379","English (American)","WS","WS","word","games_routines","call","call","call","other",NA,"on phone",NA,"no",24
 "309","item_38","English (American)","WS","WS","word","animals","lion","lion","lion","nouns",NA,NA,NA,"no",24
 "310","item_380","English (American)","WS","WS","word","games_routines","dinner","dinner","dinner","other",NA,NA,NA,"no",25
@@ -313,11 +313,11 @@
 "312","item_382","English (American)","WS","WS","word","games_routines","gonna get you","gonna get you","gonna get you","other",NA,NA,NA,"yes",25
 "313","item_383","English (American)","WS","WS","word","games_routines","go potty","go potty","go potty","other",NA,NA,NA,"yes",24
 "314","item_384","English (American)","WS","WS","word","games_routines","hello","hello","hello","other",NA,NA,NA,"no",19
-"315","item_385","English (American)","WS","WS","word","games_routines","hi","hi","hi","other",NA,NA,NA,"no",NA
+"315","item_385","English (American)","WS","WS","word","games_routines","hi","hi","hi","other",NA,NA,NA,"no",15
 "316","item_386","English (American)","WS","WS","word","games_routines","lunch","lunch","lunch","other",NA,NA,NA,"no",25
 "317","item_387","English (American)","WS","WS","word","games_routines","nap","nap","nap","other",NA,NA,NA,"no",23
 "318","item_388","English (American)","WS","WS","word","games_routines","night night","good night","good night","other",NA,NA,NA,"yes",19
-"319","item_389","English (American)","WS","WS","word","games_routines","no","no","no","other",NA,NA,NA,"no",NA
+"319","item_389","English (American)","WS","WS","word","games_routines","no","no","no","other",NA,NA,NA,"no",14
 "320","item_39","English (American)","WS","WS","word","animals","monkey","monkey","monkey","nouns",NA,NA,NA,"no",22
 "321","item_390","English (American)","WS","WS","word","games_routines","pattycake","pattycake","pattycake","other",NA,NA,NA,"no",27
 "322","item_391","English (American)","WS","WS","word","games_routines","peekaboo","peekaboo","peekaboo","other",NA,NA,NA,"no",20
@@ -329,7 +329,7 @@
 "328","item_397","English (American)","WS","WS","word","games_routines","thank you","thank you","thank you","other",NA,NA,NA,"yes",19
 "329","item_398","English (American)","WS","WS","word","games_routines","this little piggy","this little piggy","this little piggy","other",NA,NA,NA,"yes",28
 "330","item_399","English (American)","WS","WS","word","games_routines","turn around","turn around","turn around","other",NA,NA,NA,"yes",27
-"331","item_4","English (American)","WS","WS","word","sounds","grrr","grrr","grrr","other",NA,NA,NA,"no",NA
+"331","item_4","English (American)","WS","WS","word","sounds","grrr","grrr","grrr","other",NA,NA,NA,"no",16
 "332","item_40","English (American)","WS","WS","word","animals","moose","moose","moose","nouns",NA,NA,NA,"no",29
 "333","item_400","English (American)","WS","WS","word","games_routines","yes","yes","yes","other",NA,NA,NA,"no",19
 "334","item_401","English (American)","WS","WS","word","action_words","bite","bite","bite","predicates",NA,NA,NA,"no",23
@@ -370,7 +370,7 @@
 "369","item_433","English (American)","WS","WS","word","action_words","get","get","get","predicates",NA,NA,NA,"no",25
 "370","item_434","English (American)","WS","WS","word","action_words","give","give","give","predicates",NA,NA,NA,"no",26
 "371","item_435","English (American)","WS","WS","word","action_words","go","go","go","predicates",NA,NA,NA,"no",20
-"372","item_436","English (American)","WS","WS","word","action_words","hate","hate","hate","predicates",NA,NA,NA,"no",NA
+"372","item_436","English (American)","WS","WS","word","action_words","hate","hate","hate","predicates",NA,NA,NA,"no",33
 "373","item_437","English (American)","WS","WS","word","action_words","have","have","have","predicates",NA,NA,NA,"no",26
 "374","item_438","English (American)","WS","WS","word","action_words","hear","hear","hear","predicates",NA,NA,NA,"no",27
 "375","item_439","English (American)","WS","WS","word","action_words","help","help","help","predicates",NA,NA,NA,"no",23
@@ -413,7 +413,7 @@
 "412","item_472","English (American)","WS","WS","word","action_words","show","show","show","predicates",NA,NA,NA,"no",28
 "413","item_473","English (American)","WS","WS","word","action_words","sing","sing","sing","predicates",NA,NA,NA,"no",25
 "414","item_474","English (American)","WS","WS","word","action_words","sit","sit","sit","predicates",NA,NA,NA,"no",23
-"415","item_475","English (American)","WS","WS","word","action_words","skate","skate","skate","predicates",NA,NA,NA,"no",NA
+"415","item_475","English (American)","WS","WS","word","action_words","skate","skate","skate","predicates",NA,NA,NA,"no",31
 "416","item_476","English (American)","WS","WS","word","action_words","sleep","sleep","sleep","predicates",NA,NA,NA,"no",24
 "417","item_477","English (American)","WS","WS","word","action_words","slide","slide","slide","predicates",NA,"action",NA,"no",26
 "418","item_478","English (American)","WS","WS","word","action_words","smile","smile","smile","predicates",NA,NA,NA,"no",27
@@ -443,7 +443,7 @@
 "442","item_5","English (American)","WS","WS","word","sounds","meow","meow","meow","other",NA,NA,NA,"no",17
 "443","item_50","English (American)","WS","WS","word","animals","teddybear","teddybear","teddybear","nouns",NA,NA,NA,"no",24
 "444","item_500","English (American)","WS","WS","word","action_words","wipe","wipe","wipe","predicates",NA,NA,NA,"no",26
-"445","item_501","English (American)","WS","WS","word","action_words","wish","wish","wish","predicates",NA,NA,NA,"no",NA
+"445","item_501","English (American)","WS","WS","word","action_words","wish","wish","wish","predicates",NA,NA,NA,"no",32
 "446","item_502","English (American)","WS","WS","word","action_words","work","work","work","predicates",NA,"action",NA,"no",26
 "447","item_503","English (American)","WS","WS","word","action_words","write","write","write","predicates",NA,NA,NA,"no",28
 "448","item_504","English (American)","WS","WS","word","descriptive_words","all gone","all gone","all gone","predicates",NA,NA,NA,"yes",20
@@ -467,7 +467,7 @@
 "466","item_520","English (American)","WS","WS","word","descriptive_words","dry","dry","dry","predicates",NA,"description",NA,"no",27
 "467","item_521","English (American)","WS","WS","word","descriptive_words","empty","empty","empty","predicates",NA,NA,NA,"no",27
 "468","item_522","English (American)","WS","WS","word","descriptive_words","fast","fast","fast","predicates",NA,NA,NA,"no",26
-"469","item_523","English (American)","WS","WS","word","descriptive_words","fine","fine","fine","predicates",NA,NA,NA,"no",NA
+"469","item_523","English (American)","WS","WS","word","descriptive_words","fine","fine","fine","predicates",NA,NA,NA,"no",31
 "470","item_524","English (American)","WS","WS","word","descriptive_words","first","first","first","predicates",NA,NA,NA,"no",29
 "471","item_525","English (American)","WS","WS","word","descriptive_words","full","full","full","predicates",NA,NA,NA,"no",28
 "472","item_526","English (American)","WS","WS","word","descriptive_words","gentle","gentle","gentle","predicates",NA,NA,NA,"no",28
@@ -481,19 +481,19 @@
 "480","item_533","English (American)","WS","WS","word","descriptive_words","hot","hot","hot","predicates",NA,NA,NA,"no",19
 "481","item_534","English (American)","WS","WS","word","descriptive_words","hungry","hungry","hungry","predicates",NA,NA,NA,"no",25
 "482","item_535","English (American)","WS","WS","word","descriptive_words","hurt","hurt","hurt","predicates",NA,NA,NA,"no",25
-"483","item_536","English (American)","WS","WS","word","descriptive_words","last","last","last","predicates",NA,NA,NA,"no",NA
+"483","item_536","English (American)","WS","WS","word","descriptive_words","last","last","last","predicates",NA,NA,NA,"no",31
 "484","item_537","English (American)","WS","WS","word","descriptive_words","little","little","little","predicates",NA,"description",NA,"no",26
 "485","item_538","English (American)","WS","WS","word","descriptive_words","long","long","long","predicates",NA,NA,NA,"no",30
 "486","item_539","English (American)","WS","WS","word","descriptive_words","loud","loud","loud","predicates",NA,NA,NA,"no",27
 "487","item_54","English (American)","WS","WS","word","animals","wolf","wolf","wolf","nouns",NA,NA,NA,"no",29
 "488","item_540","English (American)","WS","WS","word","descriptive_words","mad","mad","mad","predicates",NA,NA,NA,"no",28
-"489","item_541","English (American)","WS","WS","word","descriptive_words","naughty","naughty","naughty","predicates",NA,NA,NA,"no",NA
+"489","item_541","English (American)","WS","WS","word","descriptive_words","naughty","naughty","naughty","predicates",NA,NA,NA,"no",32
 "490","item_542","English (American)","WS","WS","word","descriptive_words","new","new","new","predicates",NA,NA,NA,"no",28
 "491","item_543","English (American)","WS","WS","word","descriptive_words","nice","nice","nice","predicates",NA,NA,NA,"no",26
 "492","item_544","English (American)","WS","WS","word","descriptive_words","noisy","noisy","noisy","predicates",NA,NA,NA,"no",28
 "493","item_545","English (American)","WS","WS","word","descriptive_words","old","old","old","predicates",NA,NA,NA,"no",29
 "494","item_546","English (American)","WS","WS","word","descriptive_words","orange","orange","orange","predicates",NA,"description",NA,"no",25
-"495","item_547","English (American)","WS","WS","word","descriptive_words","poor","poor","poor","predicates",NA,NA,NA,"no",NA
+"495","item_547","English (American)","WS","WS","word","descriptive_words","poor","poor","poor","predicates",NA,NA,NA,"no",33
 "496","item_548","English (American)","WS","WS","word","descriptive_words","pretty","pretty","pretty","predicates",NA,NA,NA,"no",26
 "497","item_549","English (American)","WS","WS","word","descriptive_words","quiet","quiet","quiet","predicates",NA,NA,NA,"no",27
 "498","item_55","English (American)","WS","WS","word","animals","zebra","zebra","zebra","nouns",NA,NA,NA,"no",26
@@ -516,22 +516,22 @@
 "515","item_565","English (American)","WS","WS","word","descriptive_words","yellow","yellow","yellow","predicates",NA,NA,NA,"no",25
 "516","item_566","English (American)","WS","WS","word","descriptive_words","yucky","yucky","yucky","predicates",NA,NA,NA,"no",23
 "517","item_567","English (American)","WS","WS","word","time_words","after","after","after","other",NA,NA,NA,"no",29
-"518","item_568","English (American)","WS","WS","word","time_words","before","before","before","other",NA,NA,NA,"no",NA
+"518","item_568","English (American)","WS","WS","word","time_words","before","before","before","other",NA,NA,NA,"no",31
 "519","item_569","English (American)","WS","WS","word","time_words","day","day","day","other",NA,NA,NA,"no",29
 "520","item_57","English (American)","WS","WS","word","vehicles","bicycle","bicycle","bicycle","nouns",NA,NA,NA,"no",23
 "521","item_570","English (American)","WS","WS","word","time_words","later","later","later","other",NA,NA,NA,"no",28
 "522","item_571","English (American)","WS","WS","word","time_words","morning","morning","morning","other",NA,NA,NA,"no",27
 "523","item_572","English (American)","WS","WS","word","time_words","night","night","night","other",NA,NA,NA,"no",25
 "524","item_573","English (American)","WS","WS","word","time_words","now","now","now","other",NA,NA,NA,"no",26
-"525","item_574","English (American)","WS","WS","word","time_words","time","time","time","other",NA,NA,NA,"no",NA
+"525","item_574","English (American)","WS","WS","word","time_words","time","time","time","other",NA,NA,NA,"no",31
 "526","item_575","English (American)","WS","WS","word","time_words","today","today","today","other",NA,NA,NA,"no",29
 "527","item_576","English (American)","WS","WS","word","time_words","tomorrow","tomorrow","tomorrow","other",NA,NA,NA,"no",29
-"528","item_577","English (American)","WS","WS","word","time_words","tonight","tonight","tonight","other",NA,NA,NA,"no",NA
-"529","item_578","English (American)","WS","WS","word","time_words","yesterday","yesterday","yesterday","other",NA,NA,NA,"no",NA
+"528","item_577","English (American)","WS","WS","word","time_words","tonight","tonight","tonight","other",NA,NA,NA,"no",31
+"529","item_578","English (American)","WS","WS","word","time_words","yesterday","yesterday","yesterday","other",NA,NA,NA,"no",32
 "530","item_579","English (American)","WS","WS","word","pronouns","he","he","3SG.POSS","function_words",NA,NA,NA,"no",28
 "531","item_58","English (American)","WS","WS","word","vehicles","boat","boat","boat","nouns",NA,NA,NA,"no",22
 "532","item_580","English (American)","WS","WS","word","pronouns","her","her","3SG.POSS","function_words",NA,NA,NA,"no",30
-"533","item_581","English (American)","WS","WS","word","pronouns","hers","hers","3SG.POSS","function_words",NA,NA,NA,"no",NA
+"533","item_581","English (American)","WS","WS","word","pronouns","hers","hers","3SG.POSS","function_words",NA,NA,NA,"no",31
 "534","item_582","English (American)","WS","WS","word","pronouns","him","him","3SG","function_words",NA,NA,NA,"no",30
 "535","item_583","English (American)","WS","WS","word","pronouns","his","his","3SG.POSS","function_words",NA,NA,NA,"no",30
 "536","item_584","English (American)","WS","WS","word","pronouns","I","I","1SG","function_words",NA,NA,NA,"no",25
@@ -541,47 +541,47 @@
 "540","item_588","English (American)","WS","WS","word","pronouns","my","my","1SG.POSS","function_words",NA,NA,NA,"no",25
 "541","item_589","English (American)","WS","WS","word","pronouns","myself","myself","1SG.REFL","function_words",NA,NA,NA,"no",30
 "542","item_59","English (American)","WS","WS","word","vehicles","bus","bus","bus","nouns",NA,NA,NA,"no",22
-"543","item_590","English (American)","WS","WS","word","pronouns","our","our","1PL.POSS","function_words",NA,NA,NA,"no",NA
+"543","item_590","English (American)","WS","WS","word","pronouns","our","our","1PL.POSS","function_words",NA,NA,NA,"no",31
 "544","item_591","English (American)","WS","WS","word","pronouns","she","she","3SG","function_words",NA,NA,NA,"no",29
 "545","item_592","English (American)","WS","WS","word","pronouns","that","that","that","function_words",NA,NA,NA,"no",25
-"546","item_593","English (American)","WS","WS","word","pronouns","their","their","3PL.POSS","function_words",NA,NA,NA,"no",NA
-"547","item_594","English (American)","WS","WS","word","pronouns","them","them","3PL","function_words",NA,NA,NA,"no",NA
+"546","item_593","English (American)","WS","WS","word","pronouns","their","their","3PL.POSS","function_words",NA,NA,NA,"no",32
+"547","item_594","English (American)","WS","WS","word","pronouns","them","them","3PL","function_words",NA,NA,NA,"no",31
 "548","item_595","English (American)","WS","WS","word","pronouns","these","these","these","function_words",NA,NA,NA,"no",29
-"549","item_596","English (American)","WS","WS","word","pronouns","they","they","3PL","function_words",NA,NA,NA,"no",NA
+"549","item_596","English (American)","WS","WS","word","pronouns","they","they","3PL","function_words",NA,NA,NA,"no",31
 "550","item_597","English (American)","WS","WS","word","pronouns","this","this","this","function_words",NA,NA,NA,"no",26
 "551","item_598","English (American)","WS","WS","word","pronouns","those","those","those","function_words",NA,NA,NA,"no",30
-"552","item_599","English (American)","WS","WS","word","pronouns","us","us","1PL","function_words",NA,NA,NA,"no",NA
-"553","item_6","English (American)","WS","WS","word","sounds","moo","moo","moo","other",NA,NA,NA,"no",NA
+"552","item_599","English (American)","WS","WS","word","pronouns","us","us","1PL","function_words",NA,NA,NA,"no",32
+"553","item_6","English (American)","WS","WS","word","sounds","moo","moo","moo","other",NA,NA,NA,"no",16
 "554","item_60","English (American)","WS","WS","word","vehicles","car","car","car","nouns",NA,NA,NA,"no",18
 "555","item_600","English (American)","WS","WS","word","pronouns","we","we","1PL","function_words",NA,NA,NA,"no",30
 "556","item_601","English (American)","WS","WS","word","pronouns","you","you","2SG","function_words",NA,NA,NA,"no",24
 "557","item_602","English (American)","WS","WS","word","pronouns","your","your","2SG.POSS","function_words",NA,NA,NA,"no",29
-"558","item_603","English (American)","WS","WS","word","pronouns","yourself","yourself","2SG.REFL","function_words",NA,NA,NA,"no",NA
+"558","item_603","English (American)","WS","WS","word","pronouns","yourself","yourself","2SG.REFL","function_words",NA,NA,NA,"no",33
 "559","item_604","English (American)","WS","WS","word","question_words","how","how","how","function_words",NA,NA,NA,"no",30
 "560","item_605","English (American)","WS","WS","word","question_words","what","what","what","function_words",NA,NA,NA,"no",24
-"561","item_606","English (American)","WS","WS","word","question_words","when","when","when","function_words",NA,NA,NA,"no",NA
+"561","item_606","English (American)","WS","WS","word","question_words","when","when","when","function_words",NA,NA,NA,"no",31
 "562","item_607","English (American)","WS","WS","word","question_words","where","where","where","function_words",NA,NA,NA,"no",26
-"563","item_608","English (American)","WS","WS","word","question_words","which","which","which","function_words",NA,NA,NA,"no",NA
+"563","item_608","English (American)","WS","WS","word","question_words","which","which","which","function_words",NA,NA,NA,"no",34
 "564","item_609","English (American)","WS","WS","word","question_words","who","who","who","function_words",NA,NA,NA,"no",29
 "565","item_61","English (American)","WS","WS","word","vehicles","firetruck","firetruck","firetruck","nouns",NA,NA,NA,"no",25
 "566","item_610","English (American)","WS","WS","word","question_words","why","why","why","function_words",NA,NA,NA,"no",28
-"567","item_611","English (American)","WS","WS","word","locations","about","about","about","function_words",NA,NA,NA,"no",NA
-"568","item_612","English (American)","WS","WS","word","locations","above","above","above","function_words",NA,NA,NA,"no",NA
+"567","item_611","English (American)","WS","WS","word","locations","about","about","about","function_words",NA,NA,NA,"no",33
+"568","item_612","English (American)","WS","WS","word","locations","above","above","above","function_words",NA,NA,NA,"no",33
 "569","item_613","English (American)","WS","WS","word","locations","around","around","around","function_words",NA,NA,NA,"no",30
 "570","item_614","English (American)","WS","WS","word","locations","at","at","at","function_words",NA,NA,NA,"no",29
 "571","item_615","English (American)","WS","WS","word","locations","away","away","away","function_words",NA,NA,NA,"no",27
 "572","item_616","English (American)","WS","WS","word","locations","back","back","back","function_words",NA,NA,NA,"no",27
 "573","item_617","English (American)","WS","WS","word","locations","behind","behind","behind","function_words",NA,NA,NA,"no",29
-"574","item_618","English (American)","WS","WS","word","locations","beside","beside","beside","function_words",NA,NA,NA,"no",NA
+"574","item_618","English (American)","WS","WS","word","locations","beside","beside","beside","function_words",NA,NA,NA,"no",33
 "575","item_619","English (American)","WS","WS","word","locations","by","by","by","function_words",NA,NA,NA,"no",29
 "576","item_62","English (American)","WS","WS","word","vehicles","helicopter","helicopter","helicopter","nouns",NA,NA,NA,"no",26
 "577","item_620","English (American)","WS","WS","word","locations","down","down","down","function_words",NA,NA,NA,"no",21
 "578","item_621","English (American)","WS","WS","word","locations","for","for","for","function_words",NA,NA,NA,"no",29
 "579","item_622","English (American)","WS","WS","word","locations","here","here","here","function_words",NA,NA,NA,"no",25
 "580","item_623","English (American)","WS","WS","word","locations","inside","inside","in","function_words",NA,NA,"in","no",25
-"581","item_624","English (American)","WS","WS","word","locations","into","into","into","function_words",NA,NA,NA,"no",NA
+"581","item_624","English (American)","WS","WS","word","locations","into","into","into","function_words",NA,NA,NA,"no",31
 "582","item_625","English (American)","WS","WS","word","locations","next to","next to","next to","function_words",NA,NA,NA,"yes",30
-"583","item_626","English (American)","WS","WS","word","locations","of","of","of","function_words",NA,NA,NA,"no",NA
+"583","item_626","English (American)","WS","WS","word","locations","of","of","of","function_words",NA,NA,NA,"no",32
 "584","item_627","English (American)","WS","WS","word","locations","off","off","off","function_words",NA,NA,NA,"no",23
 "585","item_628","English (American)","WS","WS","word","locations","on","on","on","function_words",NA,NA,NA,"no",23
 "586","item_629","English (American)","WS","WS","word","locations","on top of","on top of","on top of","function_words",NA,NA,NA,"yes",29
@@ -596,34 +596,34 @@
 "595","item_637","English (American)","WS","WS","word","quantifiers","a","a","a","function_words",NA,NA,NA,"no",28
 "596","item_638","English (American)","WS","WS","word","quantifiers","all","all","all","function_words",NA,NA,NA,"no",27
 "597","item_639","English (American)","WS","WS","word","quantifiers","a lot","a lot","a lot","function_words",NA,NA,NA,"yes",29
-"598","item_64","English (American)","WS","WS","word","vehicles","sled","sled","sled","nouns",NA,NA,NA,"no",NA
-"599","item_640","English (American)","WS","WS","word","quantifiers","an","an","a","function_words",NA,NA,NA,"no",NA
+"598","item_64","English (American)","WS","WS","word","vehicles","sled","sled","sled","nouns",NA,NA,NA,"no",31
+"599","item_640","English (American)","WS","WS","word","quantifiers","an","an","a","function_words",NA,NA,NA,"no",34
 "600","item_641","English (American)","WS","WS","word","quantifiers","another","another","another","function_words",NA,NA,NA,"no",29
 "601","item_642","English (American)","WS","WS","word","quantifiers","any","any","any","function_words",NA,NA,NA,"no",30
-"602","item_643","English (American)","WS","WS","word","quantifiers","each","each","each","function_words",NA,NA,NA,"no",NA
-"603","item_644","English (American)","WS","WS","word","quantifiers","every","every","every","function_words",NA,NA,NA,"no",NA
+"602","item_643","English (American)","WS","WS","word","quantifiers","each","each","each","function_words",NA,NA,NA,"no",35
+"603","item_644","English (American)","WS","WS","word","quantifiers","every","every","every","function_words",NA,NA,NA,"no",32
 "604","item_645","English (American)","WS","WS","word","quantifiers","more","more","more","function_words",NA,NA,NA,"no",21
-"605","item_646","English (American)","WS","WS","word","quantifiers","much","much","much","function_words",NA,NA,NA,"no",NA
-"606","item_647","English (American)","WS","WS","word","quantifiers","none","none","none","function_words",NA,NA,NA,"no",NA
+"605","item_646","English (American)","WS","WS","word","quantifiers","much","much","much","function_words",NA,NA,NA,"no",31
+"606","item_647","English (American)","WS","WS","word","quantifiers","none","none","none","function_words",NA,NA,NA,"no",31
 "607","item_648","English (American)","WS","WS","word","quantifiers","not","not","not","function_words",NA,NA,NA,"no",28
 "608","item_649","English (American)","WS","WS","word","quantifiers","other","other","other","function_words",NA,NA,NA,"no",29
 "609","item_65","English (American)","WS","WS","word","vehicles","stroller","stroller","stroller","nouns",NA,NA,NA,"no",25
-"610","item_650","English (American)","WS","WS","word","quantifiers","same","same","same","function_words",NA,NA,NA,"no",NA
+"610","item_650","English (American)","WS","WS","word","quantifiers","same","same","same","function_words",NA,NA,NA,"no",31
 "611","item_651","English (American)","WS","WS","word","quantifiers","some","some","some","function_words",NA,NA,NA,"no",27
 "612","item_652","English (American)","WS","WS","word","quantifiers","the","the","the","function_words",NA,NA,NA,"no",28
 "613","item_653","English (American)","WS","WS","word","quantifiers","too","too","too","function_words",NA,NA,NA,"no",27
 "614","item_654","English (American)","WS","WS","word","helping_verbs","am","am","am","function_words",NA,NA,NA,"no",29
 "615","item_655","English (American)","WS","WS","word","helping_verbs","are","are","are","function_words",NA,NA,NA,"no",30
-"616","item_656","English (American)","WS","WS","word","helping_verbs","be","be","be","function_words",NA,NA,NA,"no",NA
+"616","item_656","English (American)","WS","WS","word","helping_verbs","be","be","be","function_words",NA,NA,NA,"no",31
 "617","item_657","English (American)","WS","WS","word","helping_verbs","can","can","can","function_words",NA,"auxiliary",NA,"no",28
-"618","item_658","English (American)","WS","WS","word","helping_verbs","could","could","could","function_words",NA,NA,NA,"no",NA
+"618","item_658","English (American)","WS","WS","word","helping_verbs","could","could","could","function_words",NA,NA,NA,"no",33
 "619","item_659","English (American)","WS","WS","word","helping_verbs","did","did","did","function_words",NA,NA,"did ya","no",29
 "620","item_66","English (American)","WS","WS","word","vehicles","tractor","tractor","tractor","nouns",NA,NA,NA,"no",26
 "621","item_660","English (American)","WS","WS","word","helping_verbs","do","do","do","function_words",NA,NA,NA,"no",26
-"622","item_661","English (American)","WS","WS","word","helping_verbs","does","does","does","function_words",NA,NA,NA,"no",NA
+"622","item_661","English (American)","WS","WS","word","helping_verbs","does","does","does","function_words",NA,NA,NA,"no",31
 "623","item_662","English (American)","WS","WS","word","helping_verbs","don't","don't","don't","function_words",NA,NA,NA,"no",27
 "624","item_663","English (American)","WS","WS","word","helping_verbs","gonna","gonna","gonna","function_words",NA,NA,"going to","no",28
-"625","item_664","English (American)","WS","WS","word","helping_verbs","gotta","gotta","gotta","function_words",NA,NA,"got to","no",NA
+"625","item_664","English (American)","WS","WS","word","helping_verbs","gotta","gotta","gotta","function_words",NA,NA,"got to","no",31
 "626","item_665","English (American)","WS","WS","word","helping_verbs","hafta","hafta","have to","function_words",NA,NA,"have to","no",29
 "627","item_666","English (American)","WS","WS","word","helping_verbs","is","is","is","function_words",NA,NA,NA,"no",28
 "628","item_667","English (American)","WS","WS","word","helping_verbs","lemme","lemme","lemme","function_words",NA,NA,"let me","no",27
@@ -631,24 +631,24 @@
 "630","item_669","English (American)","WS","WS","word","helping_verbs","try","try","try","function_words",NA,NA,"try to","no",28
 "631","item_67","English (American)","WS","WS","word","vehicles","train","train","train","nouns",NA,NA,NA,"no",22
 "632","item_670","English (American)","WS","WS","word","helping_verbs","wanna","wanna","wanna","function_words",NA,NA,"want to","no",25
-"633","item_671","English (American)","WS","WS","word","helping_verbs","was","was","was","function_words",NA,NA,NA,"no",NA
-"634","item_672","English (American)","WS","WS","word","helping_verbs","were","were","were","function_words",NA,NA,NA,"no",NA
-"635","item_673","English (American)","WS","WS","word","helping_verbs","will","will","will","function_words",NA,NA,NA,"no",NA
-"636","item_674","English (American)","WS","WS","word","helping_verbs","would","would","would","function_words",NA,NA,NA,"no",NA
+"633","item_671","English (American)","WS","WS","word","helping_verbs","was","was","was","function_words",NA,NA,NA,"no",31
+"634","item_672","English (American)","WS","WS","word","helping_verbs","were","were","were","function_words",NA,NA,NA,"no",33
+"635","item_673","English (American)","WS","WS","word","helping_verbs","will","will","will","function_words",NA,NA,NA,"no",31
+"636","item_674","English (American)","WS","WS","word","helping_verbs","would","would","would","function_words",NA,NA,NA,"no",34
 "637","item_675","English (American)","WS","WS","word","connecting_words","and","and","and","function_words",NA,NA,NA,"no",27
-"638","item_676","English (American)","WS","WS","word","connecting_words","because","because","because","function_words",NA,NA,NA,"no",NA
-"639","item_677","English (American)","WS","WS","word","connecting_words","but","but","but","function_words",NA,NA,NA,"no",NA
-"640","item_678","English (American)","WS","WS","word","connecting_words","if","if","if","function_words",NA,NA,NA,"no",NA
-"641","item_679","English (American)","WS","WS","word","connecting_words","so","so","so","function_words",NA,NA,NA,"no",NA
+"638","item_676","English (American)","WS","WS","word","connecting_words","because","because","because","function_words",NA,NA,NA,"no",31
+"639","item_677","English (American)","WS","WS","word","connecting_words","but","but","but","function_words",NA,NA,NA,"no",32
+"640","item_678","English (American)","WS","WS","word","connecting_words","if","if","if","function_words",NA,NA,NA,"no",34
+"641","item_679","English (American)","WS","WS","word","connecting_words","so","so","so","function_words",NA,NA,NA,"no",32
 "642","item_68","English (American)","WS","WS","word","vehicles","tricycle","tricycle","tricycle","nouns",NA,NA,NA,"no",30
-"643","item_680","English (American)","WS","WS","word","connecting_words","then","then","then","function_words",NA,NA,NA,"no",NA
+"643","item_680","English (American)","WS","WS","word","connecting_words","then","then","then","function_words",NA,NA,NA,"no",32
 "644","item_69","English (American)","WS","WS","word","vehicles","truck","truck","truck","nouns",NA,NA,NA,"no",20
 "645","item_7","English (American)","WS","WS","word","sounds","ouch","ouch","ouch","other",NA,NA,NA,"no",18
-"646","item_70","English (American)","WS","WS","word","toys","ball","ball","ball","nouns",NA,NA,NA,"no",NA
+"646","item_70","English (American)","WS","WS","word","toys","ball","ball","ball","nouns",NA,NA,NA,"no",11
 "647","item_71","English (American)","WS","WS","word","toys","balloon","balloon","balloon","nouns",NA,NA,NA,"no",19
 "648","item_72","English (American)","WS","WS","word","toys","bat","bat","bat","nouns",NA,NA,NA,"no",27
 "649","item_73","English (American)","WS","WS","word","toys","block","block","blocks","nouns",NA,NA,NA,"no",23
-"650","item_74","English (American)","WS","WS","word","toys","book","book","book","nouns",NA,NA,NA,"no",NA
+"650","item_74","English (American)","WS","WS","word","toys","book","book","book","nouns",NA,NA,NA,"no",16
 "651","item_75","English (American)","WS","WS","word","toys","bubbles","bubbles","bubbles","nouns",NA,NA,NA,"no",19
 "652","item_76","English (American)","WS","WS","word","toys","chalk","chalk","chalk","nouns",NA,NA,NA,"no",27
 "653","item_77","English (American)","WS","WS","word","toys","crayon","crayon","crayon","nouns",NA,NA,NA,"no",24
@@ -665,7 +665,7 @@
 "664","item_87","English (American)","WS","WS","word","toys","toy","toy","toy","nouns",NA,"object",NA,"no",22
 "665","item_88","English (American)","WS","WS","word","food_drink","apple","apple","apple","nouns",NA,NA,NA,"no",19
 "666","item_89","English (American)","WS","WS","word","food_drink","applesauce","applesauce","applesauce","nouns",NA,NA,NA,"no",26
-"667","item_9","English (American)","WS","WS","word","sounds","uh oh","uh oh","uh oh","other",NA,NA,NA,"yes",NA
+"667","item_9","English (American)","WS","WS","word","sounds","uh oh","uh oh","uh oh","other",NA,NA,NA,"yes",9
 "668","item_90","English (American)","WS","WS","word","food_drink","banana","banana","banana","nouns",NA,NA,NA,"no",17
 "669","item_91","English (American)","WS","WS","word","food_drink","beans","beans","beans","nouns",NA,NA,NA,"no",26
 "670","item_92","English (American)","WS","WS","word","food_drink","bread","bread","bread","nouns",NA,NA,NA,"no",23

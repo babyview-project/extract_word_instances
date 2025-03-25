@@ -90,8 +90,11 @@ english_ws_data =  english_ws_data[!is.na(category),]
 
 # compute age of acquisition by fitting a curve, and selecting age at which 
 # half of children produce the word
+# set min and max age (months)
+min_age = 0
+max_age = 60
 AoA_by_item = fit_aoa(english_ws_data, measure = "produces", method = "glm",
-  proportion = 0.5) %>% dplyr::select(item_id, AoA = aoa)
+  proportion = 0.5,min_age,max_age) %>% dplyr::select(item_id, AoA = aoa)
 
 # merge with cleaned up item data and save
 MCDI_items_with_AoA = merge(MCDI_items, AoA_by_item, by = c('item_id'), all.x = TRUE, all.y = FALSE)
