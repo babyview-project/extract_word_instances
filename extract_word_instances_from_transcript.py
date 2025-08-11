@@ -62,7 +62,7 @@ print(f"Found {len(transcript_files)} transcript files.")
 if not transcript_files:
     raise SystemExit("No transcript CSVs found.")
 
-transcript_files = transcript_files[:20]  # adjust/remove as needed
+transcript_files = transcript_files
 
 # Allowed inflectional suffixes (kept conservative to avoid false positives)
 # Examples hit: read->reads/reading/reader/readers; play->plays/played/playing/player
