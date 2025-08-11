@@ -4,8 +4,9 @@ import pandas as pd
 import numpy as np
 
 # Paths
-# Note: output_dir is set this to Mira's home directory
-output_dir = "/home/miran/word_instances"
+# Note: output directory is set to be one directory up
+# from the current script's location
+output_dir = "../word_instances/"
 os.makedirs(output_dir, exist_ok=True)
 
 # Paths to transcript, and videos on ccn2 
